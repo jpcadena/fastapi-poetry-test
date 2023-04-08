@@ -21,7 +21,7 @@ height="80">
 <h3 align="center">Fastapi poetry test</h3>
 
   <p align="center">
-    Fastapi poetry test
+    FastAPI Poetry test project.
     <br />
     <a href="https://github.com/jpcadena/fastapi-poetry-test"><strong>Explore the docs »</strong></a>
     <br />
@@ -62,7 +62,7 @@ height="80">
 
 ![Project][project-screenshot]
 
-This project is about Fastapi poetry test...
+This FastAPI project is testing Poetry as interpreter.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
