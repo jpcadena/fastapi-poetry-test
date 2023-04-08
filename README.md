@@ -88,7 +88,7 @@ This FastAPI project is testing Poetry as interpreter.
 
 ### Prerequisites
 
-* [Python 3.10+][Python-docs]
+* [Python 3.11.3][Python-docs]
 
 ### Installation
 
@@ -196,7 +196,7 @@ Distributed under the MIT License.
 
 [project-screenshot]: app/assets/static/images/project.png
 
-[Python-docs]: https://docs.python.org/3.10/
+[Python-docs]: https://docs.python.org/3.11/
 
 [Python]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
 
